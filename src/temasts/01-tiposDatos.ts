@@ -10,6 +10,6 @@ let matricula:number|string|boolean="20001493"
 
 matricula=20001493
 matricula=true
-console.log(matricula);
+//console.log(matricula);
 
 export{}
